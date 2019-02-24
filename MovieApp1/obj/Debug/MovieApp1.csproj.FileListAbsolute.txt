@@ -1,0 +1,2 @@
+C:\Users\DEXY\Desktop\MovieApp1\MovieApp1\bin\Debug\MovieApp1.exe.config
+C:\Users\DEXY\Desktop\MovieApp1\MovieApp1\obj\Debug\MovieApp1.csprojResolveAssemblyReference.cache
